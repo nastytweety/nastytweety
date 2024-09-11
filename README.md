@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nikos
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning REACT.js
+- 👀 I’m interested in ASP.NET
+- 🌱 I’m currently learning Ef(core) distributed transactions
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nikolaosdiakos@gmail.com
 
